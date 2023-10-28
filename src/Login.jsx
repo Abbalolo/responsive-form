@@ -142,7 +142,7 @@ const FlexCon2 = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 2em;
+  margin-top: 1em;
   font-size: 14px;
 `;
 
