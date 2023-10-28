@@ -8,7 +8,7 @@ const LoginContainer = styled.div`
   justify-content: center;
   align-items: center;
   width: 100%;
-  gap: 30px;
+  gap: 90px;
 
   @media (max-width: 834px) {
     flex-direction: column;
